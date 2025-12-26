@@ -1,3 +1,5 @@
+<img src = "hma.png" height = 550>
+
 # Hi 👋, I'm Guilherme Secone Neves
 
 🚀 **Technology student**  
