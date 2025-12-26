@@ -29,11 +29,11 @@ Currently studying: **JavaScript, HTML, CSS.** And in the future: **Python.**.
 - 💻 Studing for web developer    
 - 📚 High school  
 - 🧑‍💻 Studend of:  <a href = "https://www.alura.com.br/?srsltid=AfmBOopPtGwjlv4l0FVw2Y-BT61_sG8GyYLx5xEvYbRjkM7-68x6Qylp">
-@alura
-</a>
-- 👨‍🎓 Always improving every day
----
+@alura </a>
 
+- 👨‍🎓 Always improving every day
+
+---
 ## 🛠️ languages ​​that I am ready to learn:
 
 
