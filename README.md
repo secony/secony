@@ -5,7 +5,7 @@
 🚀 **Technology student**  
 📍**Brazil**                                                             
 📍**São José do Rio preto (SP)**  
-🙎‍♂️ **16 years old**
+🙎‍♂️ **17 years old**
 
 Currently studying: **JavaScript, HTML, CSS.** And in the future: **Python!**.  
 ---
