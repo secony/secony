@@ -7,7 +7,7 @@
 📍**São José do Rio preto (SP)**  
 🙎‍♂️ **17 years old**
 
-Currently studying: **JavaScript, HTML, CSS.** And in the future: **Python!**.  
+Currently studying: **Java, Spring, DataBase, Git, etc !!!**.  
 ---
 
 ## 🌐 Where to find me:
