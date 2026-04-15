@@ -28,7 +28,7 @@ Currently studying: **Java, Spring, DataBase, Git, etc !!!**.
 
 ## 🧠 What I do:
 
-- 💻 Studing for web developer    
+- 💻 Studing for backend developer    
 - 📚 High school  
 - 🧑‍💻 Studend of:  <a href = "https://www.alura.com.br/?srsltid=AfmBOopPtGwjlv4l0FVw2Y-BT61_sG8GyYLx5xEvYbRjkM7-68x6Qylp">
 @alura </a>
@@ -40,10 +40,12 @@ Currently studying: **Java, Spring, DataBase, Git, etc !!!**.
 
 
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 
 
