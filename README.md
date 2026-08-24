@@ -1,6 +1,6 @@
 # 👨‍💻 Guilherme Secone
 
-### `Backend Java Developer • Cybersecurity Enthusiast • ADS Student`
+### `Backend Java Developer Student • Cybersecurity Enthusiast • ADS Student`
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Initializing+Guilherme.OS...;Java+Backend+Developer+in+progress;Building.+Learning.+Improving.;Future+ADS+Student+at+FATEC+Rio+Preto;Backend+%7C+Cybersecurity+%7C+Technology" alt="Typing Animation" />
 
@@ -108,7 +108,7 @@ Projeto voltado para organização e controle financeiro, desenvolvido como form
 
 Durante o desenvolvimento, utilizei **IA como ferramenta de apoio**, mas também tive contato prático com tecnologias de backend como **Firebase, Realtime Database e Supabase**, o que contribuiu bastante para minha compreensão sobre persistência e sincronização de dados.
 
-🔗 [Repository](https://github.com/secony/estudos-java)
+🔗 [Repository](https://github.com/secony/cash-cadence-corner.git)
 
 > O projeto representa principalmente minha evolução prática e minha capacidade de aprender novas tecnologias enquanto desenvolvo.
 
@@ -132,7 +132,7 @@ guilherme@github:~$ cat objectives.txt
 [09] Desenvolver uma base sólida durante a graduação em ADS
 [10] Tornar-me um Backend Java Developer
 
-STATUS: IN_PROGRESS ███████████████████░ 90%
+IN_PROGRESS...
 ```
 
 ---
