@@ -1,6 +1,6 @@
 <div align="center">
 
-# GUILHERME SECONE
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&letterSpacing=&pause=1000&color=7BF79F&background=FFFFFF00&width=435&lines=GUILHERME+SECONE+NEVES)](https://git.io/typing-svg)
 
 ### `JAVA • BACKEND • CYBERSECURITY`
 
