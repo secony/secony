@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,50:00FF9C,100:0D1117&text=GUILHERME%20SECONE%20NEVES&section=header&reversal=false&fontcollor=ffffff&fontSize=60&fontAlign=50&textBg=false" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,50:00FF9C,100:0D1117&text=GUILHERME%20SECONE%20NEVES&section=header&reversal=false&fontColor=FFFFFF&fontSize=60&fontAlign=50&textBg=false" />
 ### `JAVA • BACKEND • CYBERSECURITY`
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=750&lines=Backend+Java+Developer+in+progress;Future+ADS+Student+%40+FATEC+Rio+Preto;Learning+%7C+Building+%7C+Evolving;Turning+ideas+into+software." />
