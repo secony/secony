@@ -19,11 +19,11 @@
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│                     GUILHERME.SEConY                         │
+│                   GUILHERME.SECONE.NEVES                     │
 ├──────────────────────────────────────────────────────────────┤
 │ Age             : 17                                         │
 │ Education       : ADS • FATEC São José do Rio Preto          │
-│ Focus           : Backend Development                         │
+│ Focus           : Backend Development                        │
 │ Main Language   : Java                                       │
 │ Secondary Focus : Cybersecurity                              │
 │ Status          : Learning & Building                        │
