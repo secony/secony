@@ -186,7 +186,7 @@ IN_PROGRESS...
 <div align="center">
 
 <img 
-  src="https://raw.githubusercontent.com/secony/secony/output/github-contribution-grid-snake-dark.svg"
+  src="https://raw.githubusercontent.com/secony/secony/gh-pages/github-contribution-grid-snake-dark.svg"
   alt="GitHub Contribution Snake"
   width="90%"
 />
