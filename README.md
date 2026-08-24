@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src = "https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=GUILHERME%20SECONE%20NEVES&section=header&reversal=false&fontSize=60&fontAlign=50&textBg=false" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,70:0D1117,100:00FF9C&text=GUILHERME%20SECONE%20NEVES&section=header&reversal=false&fontSize=60&fontAlign=50&textBg=false" />
 
 ### `JAVA • BACKEND • CYBERSECURITY`
 
