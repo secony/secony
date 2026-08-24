@@ -2,16 +2,20 @@
 
 # GUILHERME SECONE
 
-### `Backend Java Developer | Cybersecurity Enthusiast | FATEC ADS`
+### `JAVA • BACKEND • CYBERSECURITY`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=700&lines=Java+Backend+Developer+in+progress;Building+real+projects+and+real+skills;Future+ADS+Student+at+FATEC+Rio+Preto;Backend+%7C+Cybersecurity+%7C+Technology" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=750&lines=Backend+Java+Developer+in+progress;Future+ADS+Student+%40+FATEC+Rio+Preto;Learning+%7C+Building+%7C+Evolving;Turning+ideas+into+software." />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=secony&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/badge/17%20years-0D1117?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/FATEC%20ADS-0D1117?style=for-the-badge&logo=java&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/Java%20Backend-0D1117?style=for-the-badge&logo=openjdk&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF9C" />
 
 </div>
-## `> system.info`
+
+## system.info
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
