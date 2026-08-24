@@ -78,7 +78,7 @@ Experiência prática com **Firebase**, **Realtime Database** e exploração de 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" height="45"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,vercel" height="45"/>
 </p>
 
 ---
