@@ -8,10 +8,10 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/17%20years-0D1117?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/FATEC%20ADS-0D1117?style=for-the-badge&logo=java&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/Java%20Backend-0D1117?style=for-the-badge&logo=openjdk&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/17%20years-0D1117?style=for-the-badge&logoColor=#8B5CF6" />
+<img src="https://img.shields.io/badge/FATEC%20ADS-0D1117?style=for-the-badge&logo=java&logoColor=#8B5CF6" />
+<img src="https://img.shields.io/badge/Java%20Backend-0D1117?style=for-the-badge&logo=openjdk&logoColor=#8B5CF6" />
+<img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&logo=hackthebox&logoColor=#8B5CF6" />
 
 </div>
 
