@@ -161,16 +161,6 @@ IN_PROGRESS...
 
 ---
 
-## 📈 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=secony&theme=github-compact&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -231,7 +221,7 @@ IN_PROGRESS...
 └───────────────────────────────────────────┘
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:161b22,100:0d1117&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6,50:161b22,100:0d1117&height=100&section=footer"/>
 
 **`Building knowledge, one commit at a time.`**
 
