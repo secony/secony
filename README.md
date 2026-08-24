@@ -175,7 +175,7 @@ IN_PROGRESS...
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=secony&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=secony&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" width="90%" />
 
 </div>
 
