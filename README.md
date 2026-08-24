@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&letterSpacing=&pause=1000&color=7BF79F&background=FFFFFF00&width=435&lines=GUILHERME+SECONE+NEVES)](https://git.io/typing-svg)
+<img src = "https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=GUILHERME%20SECONE%20NEVES&section=header&reversal=false&fontSize=60&fontAlign=50&textBg=false" />
 
 ### `JAVA • BACKEND • CYBERSECURITY`
 
