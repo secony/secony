@@ -1,15 +1,16 @@
-# 👨‍💻 Guilherme Secone
+<div align="center">
 
-### `Backend Java Developer Student • Cybersecurity Enthusiast • ADS Student`
+# GUILHERME SECONE
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Initializing+Guilherme.OS...;Java+Backend+Developer+in+progress;Building.+Learning.+Improving.;Future+ADS+Student+at+FATEC+Rio+Preto;Backend+%7C+Cybersecurity+%7C+Technology" alt="Typing Animation" />
+### `Backend Java Developer | Cybersecurity Enthusiast | FATEC ADS`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=700&lines=Java+Backend+Developer+in+progress;Building+real+projects+and+real+skills;Future+ADS+Student+at+FATEC+Rio+Preto;Backend+%7C+Cybersecurity+%7C+Technology" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00ff9c&height=120&section=header" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=secony&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS" />
 
----
-
+</div>
 ## `> system.info`
 
 ```text
